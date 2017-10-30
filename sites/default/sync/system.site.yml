@@ -1,0 +1,14 @@
+uuid: a48ac911-e4cd-4bca-964d-a4526722a67b
+name: 'CS D8 Translate'
+mail: esaavedra@commonsense.org
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo

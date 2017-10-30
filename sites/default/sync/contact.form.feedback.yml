@@ -1,0 +1,14 @@
+uuid: 438ed350-0d56-4d53-9ee6-80aa5819d2fe
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - esaavedra@commonsense.org
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
